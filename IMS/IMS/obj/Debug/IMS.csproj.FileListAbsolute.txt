@@ -1,0 +1,15 @@
+D:\C# practice\IMS\IMS\IMS\bin\Debug\IMS.exe.config
+D:\C# practice\IMS\IMS\IMS\bin\Debug\IMS.exe
+D:\C# practice\IMS\IMS\IMS\bin\Debug\IMS.pdb
+D:\C# practice\IMS\IMS\IMS\obj\Debug\IMS.csproj.AssemblyReference.cache
+D:\C# practice\IMS\IMS\IMS\obj\Debug\IMS.Form1.resources
+D:\C# practice\IMS\IMS\IMS\obj\Debug\IMS.management.resources
+D:\C# practice\IMS\IMS\IMS\obj\Debug\IMS.productList.resources
+D:\C# practice\IMS\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+D:\C# practice\IMS\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.cache
+D:\C# practice\IMS\IMS\IMS\obj\Debug\IMS.csproj.CoreCompileInputs.cache
+D:\C# practice\IMS\IMS\IMS\obj\Debug\IMS.exe
+D:\C# practice\IMS\IMS\IMS\obj\Debug\IMS.pdb
+D:\C# practice\IMS\IMS\IMS\obj\Debug\IMS.catagory.resources
+D:\C# practice\IMS\IMS\IMS\obj\Debug\IMS.administration.resources
+D:\C# practice\IMS\IMS\IMS\obj\Debug\IMS.order.resources
